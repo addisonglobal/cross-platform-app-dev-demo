@@ -1,0 +1,7 @@
+{
+  "name": "@addison-global/redux-common-types",
+  "version": "1.0.0",
+  "description": "Flowtype types for the authorisation service based on the entity definitions as specified on the swagger file",
+  "main": "build/index.js",
+  "license": "MIT"
+}

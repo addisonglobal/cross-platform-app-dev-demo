@@ -1,0 +1,17 @@
+{
+  "name": "@addison-global/todos-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@addison-global/data-provider": "^1.0.0",
+    "@addison-global/redux-common-types": "^1.0.0",
+    "@addison-global/todos-service-types": "^1.0.0",
+    "react-router-redux": "^5.0.0-alpha.7",
+    "redux-saga": "^0.16.0",
+    "reselect": "^3.0.1"
+  }
+}

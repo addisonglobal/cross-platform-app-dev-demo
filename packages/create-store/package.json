@@ -1,0 +1,16 @@
+{
+  "name": "@addison-global/create-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@addison-global/combine-sagas": "^1.0.0",
+    "redux": "^3.7.2",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-saga": "^0.15.6"
+  }
+}

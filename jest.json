@@ -1,0 +1,9 @@
+{
+  "setupFiles": [
+    "<rootDir>/__jest__/setupJestEnv.js",
+  ],
+  "transformIgnorePatterns": ["<rootDir>/node_modules/(?!(@addison-global)\/).*/"],
+  "moduleNameMapper": {
+    "^.+\\.(css|less)$": "<rootDir>/__jest__/CSSStub.js"
+  }
+}
